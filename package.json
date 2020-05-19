@@ -1,0 +1,23 @@
+{
+  "name": "rng",
+  "version": "1.0.0",
+  "description": "A random number generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbuteau/rng.git"
+  },
+  "keywords": [
+    "random",
+    "rng"
+  ],
+  "author": "cbuteau@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbuteau/rng/issues"
+  },
+  "homepage": "https://github.com/cbuteau/rng#readme"
+}
